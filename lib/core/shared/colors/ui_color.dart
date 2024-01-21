@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 class UIColor {
+  static const Color liteGray = Color(0xFFF6F6F9);
   static const Color gray = Color(0xFFd9d9d9);
   static const Color romanSilver = Color(0xFF828796);
   static const Color white = Colors.white;

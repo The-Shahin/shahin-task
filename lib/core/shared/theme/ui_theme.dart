@@ -5,6 +5,7 @@ import 'package:hotel_reservation/core/shared/style/ui_text_style.dart';
 class UITheme {
   static ThemeData appTheme = ThemeData(
     scaffoldBackgroundColor: UIColor.gray,
+    fontFamily: 'SF Pro Display',
     appBarTheme: AppBarTheme(
       scrolledUnderElevation: 0,
       elevation: 0,
