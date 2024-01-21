@@ -5,6 +5,7 @@ class UIColor {
   static const Color gray = Color(0xFFd9d9d9);
   static const Color romanSilver = Color(0xFF828796);
   static const Color white = Colors.white;
+  static const Color red = Colors.red;
   static const Color black = Colors.black;
   static const Color yellowLight = Color(0xffffc700);
   static const Color yellow = Color(0xffffa800);
