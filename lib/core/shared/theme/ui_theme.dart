@@ -7,8 +7,9 @@ class UITheme {
     scaffoldBackgroundColor: UIColor.gray,
     appBarTheme: AppBarTheme(
       scrolledUnderElevation: 0,
+      elevation: 0,
       centerTitle: true,
-      titleTextStyle: UITextStyle.headline2.copyWith(
+      titleTextStyle: UITextStyle.headline1.copyWith(
         fontSize: 18,
         color: UIColor.black,
       ),
